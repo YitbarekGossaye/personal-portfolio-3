@@ -13,7 +13,7 @@ const Partners = ({ dark }) => {
                     src="img/partners/light/html.png"
                     alt=""
                   />
-                  <a className="devman_tm_full_link" a="" href="#" />
+                  <a className="devman_tm_full_link" href="#" />
                 </div>
               </li>
               <li>
@@ -25,7 +25,7 @@ const Partners = ({ dark }) => {
                     src="img/partners/light/css.png"
                     alt=""
                   />
-                  <a className="devman_tm_full_link" a="" href="#" />
+                  <a className="devman_tm_full_link" href="#" />
                 </div>
               </li>
               <li>
@@ -37,7 +37,7 @@ const Partners = ({ dark }) => {
                     src="img/partners/light/js.png"
                     alt=""
                   />
-                  <a className="devman_tm_full_link" a="" href="#" />
+                  <a className="devman_tm_full_link" href="#" />
                 </div>
               </li>
               <li>
@@ -49,7 +49,7 @@ const Partners = ({ dark }) => {
                     src="img/partners/light/react.png"
                     alt=""
                   />
-                  <a className="devman_tm_full_link" a="" href="#" />
+                  <a className="devman_tm_full_link" href="#" />
                 </div>
               </li>
               <li>
@@ -60,7 +60,7 @@ const Partners = ({ dark }) => {
                     src="img/partners/light/node.png"
                     alt=""
                   />
-                  <a className="devman_tm_full_link" a="" href="#" />
+                  <a className="devman_tm_full_link" href="#" />
                 </div>
               </li>
               <li>
@@ -72,7 +72,7 @@ const Partners = ({ dark }) => {
                     src="img/partners/light/figma.png"
                     alt=""
                   />
-                  <a className="devman_tm_full_link" a="" href="#" />
+                  <a className="devman_tm_full_link" href="#" />
                 </div>
               </li>
               <li>
@@ -84,7 +84,7 @@ const Partners = ({ dark }) => {
                     src="img/partners/light/boot.png"
                     alt=""
                   />
-                  <a className="devman_tm_full_link" a="" href="#" />
+                  <a className="devman_tm_full_link" href="#" />
                 </div>
               </li>
               <li>
@@ -96,7 +96,7 @@ const Partners = ({ dark }) => {
                     src="img/partners/light/git.png"
                     alt=""
                   />
-                  <a className="devman_tm_full_link" a="" href="#" />
+                  <a className="devman_tm_full_link" href="#" />
                 </div>
               </li>
             </ul>

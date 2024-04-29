@@ -21,11 +21,11 @@ const Home = () => {
           <div className="content">
             <div className="left">
               <div className="inner">
-                <h3 className="hello">Hello {`I'm`}</h3>
+                <h3 className="hello">Hello I am</h3>
                 <h3 className="name">Yitbarek Gossaye</h3>
                 <h3 className="job">{homeData.designation} from Addis Ababa</h3>
                 <p className="text">
-                  I'm Passionate About Building Modern Web Applications With
+                  I am Passionate About Building Modern Web Applications With
                   Cutting-Edge Technologies.
                 </p>
                 <div className="buttons">

@@ -32,7 +32,7 @@ const Testimonials = () => {
                 <div className="list_inner">
                   <img className="svg" src="img/svg/quote.svg" alt="" />
                   <p className="text">
-                    I was impressed with Yitbarek's ability to develop a
+                    I was impressed with Yitbareks ability to develop a
                     user-friendly platform that helped artists connect with
                     audiences in new ways. Thank you Yitbarek.
                   </p>
@@ -76,7 +76,7 @@ const Testimonials = () => {
                 <div className="list_inner">
                   <img className="svg" src="img/svg/quote.svg" alt="" />
                   <p className="text">
-                    Yitbarek's exceptional problem-solving skills were
+                    Yitbareks exceptional problem-solving skills were
                     invaluable during our project. When we encountered
                     unexpected technical challenges, he quickly solved them.
                   </p>
