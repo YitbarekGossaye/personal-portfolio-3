@@ -3,7 +3,6 @@ const homeData = {
   lastName: "Smith",
   designation: "Web Developer",
   address: "New York",
-  // img: "img/hero/my_photo_bg.png",
   img: "img/hero/my_copy_2.png",
   bio: "Jodi kokhono vul hoye jai tumi oporadh nio na ptate velit esse cillum dolore",
   numberOfProject: 800,
